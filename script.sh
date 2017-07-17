@@ -169,8 +169,8 @@ print_banner ()
 ## -- Banner -- ##
 {
     cecho " -- MYSQL PERFORMANCE TUNING PRIMER 2.0.1-r1 --" boldblue
-    cecho "          - By: Matthew Montgomery -" black
-    cecho "          - By: Markus Kohlmeyer   -" black
+    cecho "          - By: Sigit Pamungkas -" black
+  
 }
 
 
